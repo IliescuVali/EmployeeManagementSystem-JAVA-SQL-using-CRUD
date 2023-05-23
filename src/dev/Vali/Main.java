@@ -13,12 +13,12 @@ public class Main {
 
         Scanner sc=new Scanner(System.in);
         do{
-            System.out.println("Press 1 for Add Employee\n" +
-                    "Press 2 for Show All Employee\n" +
-                    "Press 3 Show Employee based on id \n" +
-                    "Press 4 Update the employee\n" +
-                    "Press 5 Delete the employee\n" +
-                    "Press 6 for exist\n");
+            System.out.println("Press \"1\" for Add Employee;\n" +
+                    "Press \"2\" for Show All Employee;\n" +
+                    "Press \"3\" Show Employee based on id; \n" +
+                    "Press \"4\" Update the employee;\n" +
+                    "Press \"5\" Delete the employee;\n" +
+                    "Press \"6\" for exist.\n");
 
             System.out.println("Enter Choice: ");
             int ch=sc.nextInt();
