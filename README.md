@@ -11,3 +11,5 @@ When the project is running, first we have a menu for:
 All the changes made are transmitted in the created database.
 
 
+![Workbanch with 2 examples](https://github.com/IliescuVali/EmployeeManagementSystem/assets/122371102/c6f3449c-f74d-432c-acfb-7083eddea21d)
+![Intellij Terminal](https://github.com/IliescuVali/EmployeeManagementSystem/assets/122371102/589953a7-f8ab-4db0-8ee6-99629bff3296)
